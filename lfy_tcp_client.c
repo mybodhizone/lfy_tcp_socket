@@ -2,7 +2,7 @@
 File name - lfy_tcp_client.c
 Purpose - A tcp client, which accepts data from keyboard and sends the 
 data to a server process.
-To compile - gcc lfy_udp_client.c functions.c -o myclient
+To compile - gcc lfy_tcp_client.c functions.c -o myclient
 To run - ./myclient <server's IP address> <serever's port no>
 Port Number of  server hardcoded as 11710 (can be changed)
 ************************************************************************/ 
